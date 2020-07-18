@@ -8,4 +8,3 @@
 ## Run tests
 
 `stack test`
-# functional-programming-for-dummies-haskell
